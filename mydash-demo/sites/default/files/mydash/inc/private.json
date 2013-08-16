@@ -1,0 +1,27 @@
+{
+    "5" : [
+        "2/6",
+        "2/5",
+	"2/2" 
+    ],
+    "3" : {
+        "2/1" : [
+            "Hypercoristics",
+            "Hypocoristics",
+            "History of Metal",
+            "Protonics",
+            "Monarchy Science",
+            "Grey Literature",
+            "Philology",
+	    "Plant Civilizations",
+            "Languages of Posthistory",
+            "Dickens Studies",
+            "Xenobiology",
+            "Irreal Studies",
+            "Prophecy Studies",
+            "Hyperborean Studies",
+            "History of Shopping",
+            "Deep Ecology"
+        ] 
+    }
+}
