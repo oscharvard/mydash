@@ -1,7 +1,7 @@
 mydash
 ======
 
-This repo contains a working demonstration of the MyDASH usage reporting system for DSpace, developed by Reinhard Engels at Harvard Library's Office for Scholarly Communication.  The original installation is at https://osc.hul.harvard.edu/dash/mydash/.  The demo, contained in mydash-demo/, is a complete, bare-bones installation of Drupal 7 using SQLite.  The Drupal database is in the default location, sites/default/files/.ht.sqlite.  The MyDASH code and data are in sites/default/files/mydash/, except for a bit of PHP in the mydash page.  In order to stay under the 100M size limit, the simulated MyDASH data file is compressed; you'll need to
+This repo contains a working demonstration of the MyDASH usage reporting system for [DSpace](http://www.dspace.org/), developed by Reinhard Engels at Harvard Library's Office for Scholarly Communication.  The original installation is at https://osc.hul.harvard.edu/dash/mydash/.  The demo, contained in mydash-demo/, is a complete, bare-bones installation of Drupal 7 using SQLite.  The Drupal database is in the default location, sites/default/files/.ht.sqlite.  The MyDASH code and data are in sites/default/files/mydash/, except for a bit of PHP in the mydash page.  In order to stay under the 100M size limit, the simulated MyDASH data file is compressed; you'll need to
 
         $ cd mydash-demo/sites/default/files/mydash/data/
         $ tar xvzf mydash.sqlite.tgz
